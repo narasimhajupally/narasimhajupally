@@ -1,19 +1,16 @@
-# Hi,I'm Jithender rao <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi,I'm Jupally rao <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[<img align="left" alt="Jithender rao | LinkedIn" width="30px" src="./linkedin.svg" />][linkedin]
-[<img align="left" alt="Jithender rao | Twitter" width="30px" src="./twitter.svg" />][twitter]
-[<img align="left" alt="jithenderjupally | Gmail" width="30px" src="./gmail.svg" />][gmail]
-[<img align="left" alt="Jithender rao | Leetcode" width="30px" src="./leetcode.svg" />][Leetcode]
-[<img align="left" alt="Jithender rao | Codechef" width="30px" src="./codechef.svg" />][codechef]
+[<img align="left" alt="Jupally rao | LinkedIn" width="30px" src="./linkedin.svg" />][linkedin]
+[<img align="left" alt="Jupally rao | Twitter" width="30px" src="./twitter.svg" />][twitter]
+[<img align="left" alt="Jupally | Gmail" width="30px" src="./gmail.svg" />][gmail]
+[<img align="left" alt="Jupally rao | Leetcode" width="30px" src="./leetcode.svg" />][Leetcode]
 
-<!-- <a href="https://app.daily.dev/jithenderrao"><img src="https://api.daily.dev/devcards/89ea6e01dfbf46159743ba4c51548ec4.png?r=5lm" align="right" width="250" alt="Jithender Rao's Dev Card"/></a> -->
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/jithender04/jithender04/blob/main/devcard.svg" align="right" width="250" alt="Jithender Rao's Dev Card"/></a>
+<a href="https://app.daily.dev/Jupally"><img src="https://api.daily.dev/devcards/25d225d8f5bb4f6ebc105db052f6157f.png?r=scl" width="400" alt="JUPALLY's Dev Card"/></a>
 
-[linkedin]:https://www.linkedin.com/in/jithenderrao/
-[twitter]: https://twitter.com/JiThEnDeR_04/
-[gmail]: mailto:jithenderjupally@gmail.com
-[Leetcode]:https://leetcode.com/Jupally04/
-[codechef]:https://www.codechef.com/users/jithender04/
+[linkedin]:https://www.linkedin.com/in/narasimhajupally/
+[twitter]:https://twitter.com/home
+[gmail]:mailto:narasimhajupally@gmail.com
+[Leetcode]:https://leetcode.com/narasimhajupally/
 
 <br>
 <br>
@@ -21,12 +18,6 @@
 ### I'm a programmer on beta testing!
 I've always been a person that if I didn't know how to make something 🔎 I'd find out how to do it, so programming has been a perfect fit for me.
 <br>
-
-### **If you want to see some highlights of my production so far, check:**
-- [Proshop](https://proshop-by-jupally.herokuapp.com/)
-- [Covid-tracker](https://covid19-tracker-f436a.firebaseapp.com)
-- [Pixel-Art](https://pixel-art-b64ab.web.app/)
-- [Digi-Converter](https://github.com/jithender04/Digi-Converter)
 
 ### GitHub Stats
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Jithender github stats](https://github-readme-stats.vercel.app/api?username=jithender04&count_private=true&show_icons=true&theme=radical&include_all_commits=true)
